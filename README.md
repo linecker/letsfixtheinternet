@@ -14,6 +14,7 @@ Problem:
 Many internet services are free to use but the real price we pay is our personal data. Some of the most valuable internet companies have indeed perfected this.
 
 Solutions:
+ - Privacy by design (instead of privacy by policy)
  - Tails Live CD https://tails.boum.org/index.en.html 
  - Tor anonymity network https://www.torproject.org/
  - Firefox Containers 
