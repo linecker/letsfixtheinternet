@@ -13,7 +13,7 @@ What you'll find on this site is a growing collection of initiatives, projects a
 
 Many internet services are free to use but the real price we pay is our personal data. Some of the most valuable internet companies have indeed perfected this.
 
-#### Solutions: ####
+#### Solutions & Projects: ####
  - Privacy by design (instead of privacy by policy)
  - Tails Live CD https://tails.boum.org/index.en.html 
  - Tor anonymity network https://www.torproject.org/
@@ -27,7 +27,7 @@ Many internet services are free to use but the real price we pay is our personal
 
 Fake news, targeted disinformation campaigns, clickbaiting, addicting technologies. These are alarming realities, sponsored by both private companies and governments.
 
-#### Solutions: ####
+#### Solutions & Projects: ####
  - Underlay https://underlay.mit.edu/
  - European Digital Media Observatory
  - Google News Initiative https://newsinitiative.withgoogle.com/
@@ -37,10 +37,11 @@ Fake news, targeted disinformation campaigns, clickbaiting, addicting technologi
 
 Both criminal organizations (in the case of ransomware) and governments (in the case of censorship and espionage) use cyberattacks for their purposes.
 
-#### Solutions: ####
+#### Solutions & Projects: ####
  - Firefox Monitor https://monitor.firefox.com/
  - Trustable Technology Mark https://trustabletech.org/
  - Cloudflare CDN, Athenian, Galileo
+ - Core Infrastructure Initiative https://www.coreinfrastructure.org/
  
 ## General resources
  - Mozilla Foundation Internet Health Report https://foundation.mozilla.org/en/internet-health-report/
