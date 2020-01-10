@@ -9,11 +9,11 @@ What you'll find on this site is a growing collection of initiatives, projects a
 ## Problems and solutions
 
 ### Profiling
-Problem: 
+#### Problem: ####
 
 Many internet services are free to use but the real price we pay is our personal data. Some of the most valuable internet companies have indeed perfected this.
 
-Solutions:
+#### Solutions: ####
  - Privacy by design (instead of privacy by policy)
  - Tails Live CD https://tails.boum.org/index.en.html 
  - Tor anonymity network https://www.torproject.org/
@@ -23,21 +23,21 @@ Solutions:
  - Private cloud, self-hosting
 
 ### Manipulating
-Problem: 
+#### Problem: ####
 
 Fake news, targeted disinformation campaigns, clickbaiting, addicting technologies. These are alarming realities, sponsored by both private companies and governments.
 
-Solutions:
+#### Solutions: ####
  - Underlay https://underlay.mit.edu/
  - European Digital Media Observatory
  - Google News Initiative https://newsinitiative.withgoogle.com/
 
 ### Attacking
-Problem: 
+#### Problem: ####
 
 Both criminal organizations (in the case of ransomware) and governments (in the case of censorship and espionage) use cyberattacks for their purposes.
 
-Solutions:
+#### Solutions: ####
  - Firefox Monitor https://monitor.firefox.com/
  - Trustable Technology Mark https://trustabletech.org/
  - Cloudflare CDN, Athenian, Galileo
