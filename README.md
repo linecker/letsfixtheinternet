@@ -21,6 +21,7 @@ Many internet services are free to use but the real price we pay is our personal
  - Local-First Softare & Conflict-free Replicated Data Types https://martin.kleppmann.com/papers/local-first.pdf
  - Tim Bernes Lee Contract for the Web https://contractfortheweb.org/
  - Private cloud, self-hosting
+ - Decentralized social networks like https://planetary.social/ https://handbook.scuttlebutt.nz/
 
 ### Manipulating
 #### Problem: ####
