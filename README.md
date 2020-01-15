@@ -14,7 +14,8 @@ What you'll find on this site is a growing collection of initiatives, projects a
 Many internet services are free to use but the real price we pay is our personal data. Some of the most valuable internet companies have indeed perfected this.
 
 #### Solutions & Projects: ####
- - Privacy by design (instead of privacy by policy)
+ - Privacy by design (instead of privacy by policy), e.g. https://mega.co.nz/
+ - Data protection by design, e.g. https://protonmail.com/
  - Tails Live CD https://tails.boum.org/index.en.html 
  - Tor anonymity network https://www.torproject.org/
  - Firefox Containers 
