@@ -21,7 +21,7 @@ Many internet services are free to use but the real price we pay is our personal
  - Firefox Containers 
  - Local-First Softare & Conflict-free Replicated Data Types https://martin.kleppmann.com/papers/local-first.pdf
  - Tim Bernes Lee Contract for the Web https://contractfortheweb.org/
- - Private cloud, self-hosting https://dino.im/
+ - Private cloud, self-hosting https://dino.im/ https://github.com/sovereign/sovereign
  - Decentralized social networks like https://planetary.social/ https://handbook.scuttlebutt.nz/
 
 ### Manipulating
