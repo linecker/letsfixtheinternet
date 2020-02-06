@@ -47,5 +47,6 @@ Both criminal organizations (in the case of ransomware) and governments (in the 
  
 ## General resources
  - Mozilla Foundation Internet Health Report https://foundation.mozilla.org/en/internet-health-report/
+ - The Shallows, What the Internet Is Doing to Our Brains by Nicholas Carr https://wwnorton.com/books/9780393357820
 
 
