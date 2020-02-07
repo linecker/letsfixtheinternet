@@ -27,7 +27,7 @@ Many internet services are free to use but the real price we pay is our personal
 ### Manipulating
 #### Problem: ####
 
-Fake news, targeted disinformation campaigns, clickbaiting, addicting technologies. These are alarming realities, sponsored by both private companies and governments.
+Fake news, targeted disinformation campaigns, censorship through noise (from https://www.theatlantic.com/magazine/archive/2020/03/the-2020-disinformation-war/605530/), clickbaiting, addicting technologies. These are alarming realities, sponsored by both private companies and governments.
 
 #### Solutions & Projects: ####
  - Underlay https://underlay.mit.edu/
