@@ -18,7 +18,7 @@ Many internet services are free to use but the real price we pay is our personal
  - Data protection by design, e.g. https://protonmail.com/
  - Tails Live CD https://tails.boum.org/index.en.html 
  - Tor anonymity network https://www.torproject.org/
- - Firefox Containers 
+ - Firefox Containers https://addons.mozilla.org/de/firefox/addon/multi-account-containers/ https://addons.mozilla.org/de/firefox/addon/temporary-containers/
  - Local-First Softare & Conflict-free Replicated Data Types https://martin.kleppmann.com/papers/local-first.pdf
  - Tim Bernes Lee Contract for the Web https://contractfortheweb.org/ and Solid https://solid.mit.edu/
  - Private cloud, self-hosting https://dino.im/ https://github.com/sovereign/sovereign
