@@ -32,7 +32,7 @@ Fake news, targeted disinformation campaigns, censorship through noise (from htt
 
 #### Solutions & Projects: ####
  - Underlay https://underlay.mit.edu/
- - European Digital Media Observatory
+ - European Digital Media Observatory https://edmo.eu/
  - Google News Initiative https://newsinitiative.withgoogle.com/
 
 ### Attacking
