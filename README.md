@@ -52,6 +52,7 @@ Both criminal organizations (in the case of ransomware) and governments (in the 
  - Decentralized naming and certificate authority https://handshake.org/
  - Dark Web Price Index 2020 https://www.privacyaffairs.com/dark-web-price-index-2020/
  - How is NSA breaking so much crypto? https://freedom-to-tinker.com/2015/10/14/how-is-nsa-breaking-so-much-crypto/
+ - https://www.internetsociety.org/iot/trustbydesign/
 
 ## General ideas
  - What would happen if each website would have to tell you how much money it makes of you and who pays the bill?
