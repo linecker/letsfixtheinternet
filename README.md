@@ -24,6 +24,7 @@ Many internet services are free to use but the real price we pay is our personal
  - Private cloud, self-hosting https://dino.im/ https://github.com/sovereign/sovereign
  - Decentralized social networks like https://planetary.social/ https://handbook.scuttlebutt.nz/
  - R&S BitBox
+ - Degoogle https://degoogle.jmoore.dev/
 
 ### Manipulating
 #### Problem: ####
