@@ -4,7 +4,7 @@ On a technical and commercial basis, the internet is working quite well. Apart f
 
 Inspired by a work project that made me realize how naive I have been concerning my personal use of the internet, I started to dig deeper. I took the "follow the money"-approach and found three main branches of problems, namely profiling, manipulating and attacking.
 
-What you'll find on this site is a growing collection of initiatives, projects and resources that tackle those issues. Do you know another project? Please tell me (via a github pull request or mail to stefan@letsfixtheinternet.org).
+What you'll find on this site is a growing collection of initiatives, projects and resources that tackle those issues. Do you know another project? Please tell me (via a github pull request).
 
 ## Problems and solutions
 
